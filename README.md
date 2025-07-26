@@ -4,15 +4,16 @@
   <i>AI/ML Engineer | Full Stack Developer | UI/UX Designer</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NikhilEnjirapu">
-    <img src="https://img.shields.io/github/followers/NikhilEnjirapu?label=GitHub&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nikhil-enjirapu-630366255/">
-    <img src="https://img.shields.io/badge/LinkedIn-nikhil--enjirapu-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/nikhil-enjirapu-630366255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:enjirapunikhil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-enjirapunikhil@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  <a href="mailto:enjirapunikhil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nikhil_enjirapu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
