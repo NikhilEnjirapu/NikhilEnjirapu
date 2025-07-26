@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Enjirapu Yuva Sekhar Nikhil Eswara Achari
+# 👋 Hi, I'm Enjirapu Nikhil
 
 I'm a B.Tech CSE (AIML) graduate passionate about building innovative solutions that blend **intelligent systems** with **user-centric design**. From full-stack web applications to intuitive UI/UX, I love creating projects that make an impact.
 
