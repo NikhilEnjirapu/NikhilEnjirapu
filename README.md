@@ -51,9 +51,6 @@
 > A full-stack web app for tracking buses and collecting live feedback.  
 > *Tech Stack: Node.js, Express, MongoDB, EJS*
 
-### 🔹 [AlgoCore](https://github.com/NikhilEnjirapu)
-> An interactive coding platform inspired by LeetCode with test-taking flow, NLP-ready modules, and results analysis.  
-> *Built using React and Node.js*
 
 ---
 
