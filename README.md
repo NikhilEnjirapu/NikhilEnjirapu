@@ -4,6 +4,8 @@
   <i>AI/ML Engineer | Full Stack Developer | UI/UX Designer</i>
 </p>
 
+<p align="center">
+  <a href="https://github.com/NikhilEnjirapu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nikhil-enjirapu-630366255/" target="_blank">
