@@ -1,22 +1,41 @@
-# 👋 Hi, I'm Enjirapu Nikhil
+<h1 align="center">Hi 👋, I'm Enjirapu Yuva Sekhar Nikhil Eswara Achari</h1>
+<p align="center">
+  <i>Aspiring AI/ML Engineer | Full Stack Developer | UI/UX Designer</i>
+</p>
 
-I'm a B.Tech CSE (AIML) graduate passionate about building innovative solutions that blend **intelligent systems** with **user-centric design**. From full-stack web applications to intuitive UI/UX, I love creating projects that make an impact.
+<p align="center">
+  <a href="https://github.com/NikhilEnjirapu">
+    <img src="https://img.shields.io/github/followers/NikhilEnjirapu?label=GitHub&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-enjirapu-630366255/">
+    <img src="https://img.shields.io/badge/LinkedIn-nikhil--enjirapu-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="mailto:enjirapunikhil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-enjirapunikhil@gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects Highlights
-- **Real-time Bus Tracking App** – Built with Node.js and EJS; team lead and full-stack developer.
-- **G-Mart** – A zero-cost marketplace promoting reuse and sustainability.
-- **AlgoCore** – A coding platform inspired by LeetCode & CodeChef, with NLP readiness.
+## 🚀 About Me
+
+🎓 I'm currently pursuing B.Tech in Computer Science with a specialization in AI & ML.  
+💼 UI/UX Designer at Codedale (Remote).  
+💡 Passionate about bridging the gap between intelligent systems and user-centric design.  
+🔍 Open to roles in AI/ML, Full Stack Development, and Product Design.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, Java, JavaScript  
-**Frontend:** HTML, CSS, React, Tailwind, EJS  
-**Backend:** Node.js, Express  
-**AI/ML:** Machine Learning, Deep Learning, NLP  
-**Tools & Design:** Figma, Git, VS Code
+## 🔨 Tech Stack
+
+```yaml
+Languages:        Python, Java, JavaScript
+Frontend:         React, HTML, CSS, Tailwind, EJS
+Backend:          Node.js, Express.js, MongoDB
+AI/ML:            Machine Learning, Deep Learning, NLP
+Design Tools:     Figma, Adobe XD
+Others:           Git, REST APIs, Agile, VS Code
+
 
 ---
 
