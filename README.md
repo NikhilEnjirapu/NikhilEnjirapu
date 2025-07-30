@@ -26,8 +26,7 @@
 🎓 I'm currently pursuing B.Tech in Computer Science with a specialization in AI & ML.  
 💼 Working as a UI/UX Designer at Codedale (Remote).  
 🧠 Passionate about building intelligent solutions with clean, user-centered design.  
-🔍 Actively looking for opportunities in AI/ML, Full Stack Development, or Product Design.
-
+🔍 Actively looking for opportunities in AI/ML, Full Stack Development.
 ---
 
 ## 💡 Skills & Tech Stack
