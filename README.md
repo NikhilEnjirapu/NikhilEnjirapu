@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enjirapu Yuva Sekhar Nikhil Eswara Achari</h1>
+<h1 align="center">Hi 👋, I'm Enjirapu Nikhil</h1>
 
 <p align="center">
   <i>AI/ML Engineer | Full Stack Developer | UI/UX Designer</i>
